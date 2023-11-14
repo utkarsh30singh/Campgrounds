@@ -5,6 +5,7 @@ It is a web application designed to add, rate and review different campgrounds, 
 
 ## Live Demo
 For Live Demo go to https://pure-brushlands-95802.herokuapp.com/
+Video Recorded: https://drive.google.com/file/d/1DiiT6MCCE-4n37MjAjQip_T9j8ScCW2r/view?usp=sharing
 
 ## Features
 * Authentication:
